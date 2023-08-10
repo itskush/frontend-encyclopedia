@@ -556,6 +556,12 @@
       "name": "Node Cron",
       "url": "https://github.com/node-cron/node-cron",
       "type": "Library"
+    },
+    {
+      "name": "Nuxt.js",
+      "url": "https://nuxt.com",
+      "type": "Framework",
+      "year_created": 2016,
     }
   ],
   "O": [
